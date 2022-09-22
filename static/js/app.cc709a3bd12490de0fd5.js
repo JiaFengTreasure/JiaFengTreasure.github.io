@@ -164,7 +164,7 @@ html{
   perspective: 1000px;
 }
 .styleEditor {
-  position: fixed; left: 0; top: 0;
+  position: fixed; left: 0; top: 10x;
   -webkit-transition: none;
   transition: none;
   -webkit-transform: rotateY(10deg) translateZ(-100px) ;
@@ -405,7 +405,7 @@ html{
   perspective: 1000px;
 }
 .styleEditor {
-  position: fixed; left: 0; top: 0;
+  position: fixed; left: 0; top: 10px;
   transform: rotateX(-10deg) translateZ(-50px) ;
 }
 
