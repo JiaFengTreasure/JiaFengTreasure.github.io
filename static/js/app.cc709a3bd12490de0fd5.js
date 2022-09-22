@@ -151,7 +151,7 @@ html {
   border: 1px solid;
   margin: .5em;
   overflow: auto;
-  width: 45vw; height: 90vh;
+  width: 45vw; height: 80vh;
 }
 /* 代码高亮 */
 .token.selector{ color: rgb(133,153,0); }
