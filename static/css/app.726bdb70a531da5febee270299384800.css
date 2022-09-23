@@ -61,14 +61,12 @@ to {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  min-height: 100vh; position: relative;
 }
 html[data-v-85a1ee0c] {
   min-height: 100vh;
 }
-*[data-v-85a1ee0c]{
+*[data-v-85a1ee0c] {
   box-sizing: border-box;
 }
 
-
-/*# sourceMappingURL=app.c883a0f215a16dce8af9031ad782b4db.css.map*/
+/*# sourceMappingURL=app.726bdb70a531da5febee270299384800.css.map*/
